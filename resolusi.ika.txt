@@ -1,0 +1,9 @@
+Resolusi Ika for this year.
+- Consistent to always learning Programming Language for 2-3 hours a day for everyday.
+- Learning Javascript and the 1 framework at least React JS, Vue JS or Next JS and the Back-End for Node JS.
+- Learning CSS till finish, learning SASS/SCSS and at least 1 framework like Tailwind or Bootstrap.
+- I should finishing the big one project this year and it's the travel website with JS Full Stack.
+- And the small project like my daily blog, calculator, Media Gallery, etc.
+- More expert with the JS Full Stack.
+- I can joining the programming community.
+- Be awareness, mindfull, and controlling myself more.
