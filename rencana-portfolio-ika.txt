@@ -7,3 +7,4 @@ RENCANA PORTFOLIO IKA
    b. Membuat Jam digital atau analog.
 4. Membuat Case Sederhana dari CSS.
 5. Applying the job.
+6. Working as freelancer web developer
