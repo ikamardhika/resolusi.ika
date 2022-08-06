@@ -3,4 +3,7 @@ RENCANA PORTFOLIO IKA
 1. Blog Sederhana
 2. Menyelesaikan Kelas Mern BWA Hotel Website
 3. Membuat Case Sederhana dari JS.
-4. Applying the job.
+   a. Calculator
+   b. Membuat Jam digital atau analog.
+4. Membuat Case Sederhana dari CSS.
+5. Applying the job.
